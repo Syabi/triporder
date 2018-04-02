@@ -1,0 +1,22 @@
+{
+  "name": "triporder",
+  "version": "1.0.0",
+  "description": "A tool ordering application for trips",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syabi/triporder.git"
+  },
+  "author": "Puskás G. Szabolcs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syabi/triporder/issues"
+  },
+  "homepage": "https://github.com/Syabi/triporder#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
